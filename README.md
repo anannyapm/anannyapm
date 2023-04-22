@@ -30,4 +30,4 @@ I am a Flutter Mobile Application Developer and a Design Enthusiast.
 
 - :books: My leisure time is for books.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]("https://www.linkedin.com/in/anannyapm/")
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue)](https://www.linkedin.com/in/anannyapm/)
