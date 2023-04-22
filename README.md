@@ -50,7 +50,6 @@ I am a Flutter Mobile Application Developer and a Design Enthusiast.
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
  
   ### :fire: My Stats :
-  https://github-readme-streak-stats.herokuapp.com/?anannyapm
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anannyapm&theme=dark&background=000000)](https://git.io/streak-stats)
   
