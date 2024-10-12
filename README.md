@@ -17,7 +17,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Flutter Mobile Application Developer and a Design Enthusiast.
+I am a Mobile Application Developer and a Product Enthusiast.
 - :iphone: A passionate developer driving product growth in a startup environment.Crafting innovative mobile experiences with Flutter and Gen AI. Open to new challenges and collaborations.
   
 - :black_nib: I love exploring and sharing technical knowledge gained.
