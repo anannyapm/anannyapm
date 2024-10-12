@@ -18,15 +18,15 @@
 
 ### :woman_technologist: About Me :
 I am a Flutter Mobile Application Developer and a Design Enthusiast.
-- :iphone: I’m working as a Flutter Developer Intern and contributing to frontend and backend development for mobile based applications using flutter.
-
+- :iphone: A passionate developer driving product growth in a startup environment.Crafting innovative mobile experiences with Flutter and Gen AI. Open to new challenges and collaborations.
+  
 - :black_nib: I love exploring and sharing technical knowledge gained.
 
 - :computer: Loves to code and solve problems on competitive coding platforms.
 
 - :headphones: Music is my best friend.
 
-- :bulb: Passionate about designing graphic content.
+- :bulb: Passionate about designing and crafting content.
 
 - :books: My leisure time is for books.
 
